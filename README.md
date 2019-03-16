@@ -3,6 +3,10 @@
 <h3 style="color: #FFFFFF">An Apex Legends bot. View highly detailed statistics about your profile on each major platform, as well as information about game mechanics and items.</h3><br>
 </center>
   
+<a href="https://discordbots.org/bot/549006831847079958" >
+  <img src="https://discordbots.org/api/widget/549006831847079958.svg" alt="Apex Tracker" />
+</a>  
+
 Apex Commands:<br><br>
 
 • <code>a!stats \<platform> \<name></code> - returns player statistics.<br><br>
@@ -46,86 +50,3 @@ Bot Commands:<br><br>
  <img src="https://i.imgur.com/e9MFe4b.png" alt="Legend Example">
  
  </center>
- 
- 
-<style>
-body, html{
-    background:#191919;
-    overflow:hidden !important;
-}
-.shapes-background{
-    display:none;
-}
-.columns{
-    flex-direction:column;
-    align-items:center;
-}
-#cdm-zone-01 {
-    margin-top:-40px !important;
-    margin-bottom:-20px !important;
-}
-#details .is-widescreen {
-    border-top:0 !important;
-}
-.is-offset-4-tablet .bot-img {
-    border:none !important;
-    border-radius:50%;
-    box-shadow:0 0 100px 0 rgba(0,0,0,.4) !important;
-}
-
-#bot-details-page #details .column {
-    display:flex;
-    flex-direction:column;
-    align-items:center;
-}
-#bot-details-page .bot-name {
-    color:#d38e15;
-    font-size:3em;
-}
-.lib a {
-    display:none;
-}
-#bot-details-page .bot-description {
-    color:#a9a9a9;
-    font-size:1.4em;
-}
-#bot-details-page .votebutton {
-    background:#d38e15;
-}
-#details .columns {
-}
-.left-container p:first-child{
-    display:none;
-}
-.wrapper-page > .is-widescreen .is-tablet > .column {
-    display:none;
-}
-
-
-.longdescription .content {
-    background:#2a2c31;
-    color:#a9a9a9;
-}
-
-.owners {
-    display:none;
-}
-#details .columns div:last-child style,
-#details .columns div:last-child iframe{
-    position:fixed !important;
-    right:0;
-    top:0;
-    bottom:0;
-    margin:auto !important;
-}
-html{
-    overflow-y:auto !important;
-}
-body{
-    margin-bottom:-20px !important;
-}
-</style>
-
-<a href="https://discordbots.org/bot/549006831847079958" >
-  <img src="https://discordbots.org/api/widget/549006831847079958.svg" alt="Apex Tracker" />
-</a>
