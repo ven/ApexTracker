@@ -7,7 +7,7 @@
   <img src="https://discordbots.org/api/widget/549006831847079958.svg" alt="Apex Tracker" />
 </a>
 
-<br><h1>Apex Commands:<\h1><br><br>
+<br>Apex Commands:<br><br>
 
 • <code>a!stats \<platform> \<name></code> - returns player statistics.<br><br>
 • <code>a!legends</code> - returns a list of the Apex Legends.<br><br>
